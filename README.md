@@ -1,6 +1,4 @@
-# Ipify
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ipify`. To experiment with that code, run `bin/console` for an interactive prompt.
+# Ipify [![Build Status](https://travis-ci.org/code-lever/ipify-gem.png)](https://travis-ci.org/code-lever/ipify-gem) [![Dependency Status](https://gemnasium.com/code-lever/ipify-gem.png)](https://gemnasium.com/code-lever/ipify-gem) [![Code Climate](https://codeclimate.com/github/code-lever/ipify-gem.png)](https://codeclimate.com/github/code-lever/ipify-gem)
 
 TODO: Delete this and the text above, and describe your gem
 
@@ -32,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/ipify/fork )
+1. Fork it ( https://github.com/code-lever/ipify/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
