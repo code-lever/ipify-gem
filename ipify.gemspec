@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["nick@codelever.com"]
 
   spec.summary       = %q{An unofficial Ruby gem for ipify.  A simple external IP address service.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.description   = %q{Ruby gem for ipify.org, a service to retrieve your external IP address.}
   spec.homepage      = "http://github.com/code-lever/ipify-gem"
   spec.license       = 'MIT'
 
