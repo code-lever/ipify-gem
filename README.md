@@ -20,7 +20,27 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Pretty simple, you can either ignore exceptions or deal with them:
+
+```
+require 'ipify'
+
+# deal w/errors!
+begin
+  ip = Ipify.ip!
+  # => '1.2.3.4'
+rescue Ipify::ConnectionError
+  # failed to connect to the service
+rescue Ipify::ServiceError
+  # ipify.org is having issues!
+rescue
+  # something else...
+end
+
+# ignore errors!
+ip = Ipify.ip
+# => '1.2.3.4'
+```
 
 ## Development
 
