@@ -1,4 +1,4 @@
-# Ipify [![Build Status](https://travis-ci.org/code-lever/ipify-gem.png)](https://travis-ci.org/code-lever/ipify-gem) [![Dependency Status](https://gemnasium.com/code-lever/ipify-gem.png)](https://gemnasium.com/code-lever/ipify-gem) [![Code Climate](https://codeclimate.com/github/code-lever/ipify-gem.png)](https://codeclimate.com/github/code-lever/ipify-gem)
+# Ipify [![Build Status](https://travis-ci.org/code-lever/ipify-gem.png)](https://travis-ci.org/code-lever/ipify-gem) [![Dependency Status](https://gemnasium.com/code-lever/ipify-gem.png)](https://gemnasium.com/code-lever/ipify-gem) [![Code Climate](https://codeclimate.com/github/code-lever/ipify-gem.png)](https://codeclimate.com/github/code-lever/ipify-gem) [![Gem Version](https://badge.fury.io/rb/ipify.svg)](http://badge.fury.io/rb/ipify)
 
 An unofficial [ipify](http://ipify.org) Ruby gem.  Get your external IP address.
 
