@@ -1,6 +1,6 @@
 # Ipify [![Build Status](https://travis-ci.org/code-lever/ipify-gem.png)](https://travis-ci.org/code-lever/ipify-gem) [![Dependency Status](https://gemnasium.com/code-lever/ipify-gem.png)](https://gemnasium.com/code-lever/ipify-gem) [![Code Climate](https://codeclimate.com/github/code-lever/ipify-gem.png)](https://codeclimate.com/github/code-lever/ipify-gem)
 
-TODO: Delete this and the text above, and describe your gem
+An unofficial [ipify](http://ipify.org) Ruby gem.  Get your external IP address.
 
 ## Installation
 
