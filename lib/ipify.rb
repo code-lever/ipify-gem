@@ -21,6 +21,7 @@ module Ipify
   # @return [String] external ip address
   # @raise [Ipify::ConnectionError] if unable to reach the ipify service
   # @raise [Ipify::ServiceError] if the ipify service returns status other than 200(OK)
+
   def self.ip!
     http = build_http
     response = Retriable.retriable tries: 3 do
