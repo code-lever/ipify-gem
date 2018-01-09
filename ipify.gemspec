@@ -33,5 +33,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'simplecov-rcov'
   spec.add_development_dependency 'yard'
 
-  spec.add_dependency 'retriable', '~> 3.1.1'
+  spec.add_dependency 'retriable', '~> 3.0'
 end
